@@ -1,4 +1,4 @@
 
-# P S Ahmmad Khan Portfolio Website
+# P S Ahmmad Khan 
 
 Built with React.js and TailwindCSS.
